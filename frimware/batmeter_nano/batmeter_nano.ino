@@ -50,10 +50,6 @@ Pin summary (Arduino Nano digital / analog labels):
   A4  = FAN output
   A5  = Power LED output
 
-Notes: This version has been adapted for Arduino Nano and may include
-  software changes from the original project.
-
-
 */
 
 
