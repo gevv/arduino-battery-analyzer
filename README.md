@@ -9,13 +9,15 @@ https://320volt.com/arduino-pil-analiz-cihazi
 
 ## Features
 
-* Battery capacity test
-* Internal resistance estimation
-* Support for single-cell 18650 Li-ion batteries
+* Power requirements: 12 V, 250 mA
+* Input voltage: 0.8-20 V, measurement resolution 0.01 V
 * Can be adapted for other batteries or battery packs up to approximately 20 V
-* Different load current options depending on the load resistor and MOSFET
-* Measurement monitoring via LCD screen
-* Fan-assisted load resistor cooling
+* Battery  Capacity meter
+* Constant current load
+* Internal resistance meter
+* Discharge current: 0,01-2,55 A
+* Control: 4 buttons, 20x4 character LCD
+* LM35 Fan control (optinal)
 
 ## LCD Menu and Measurement Screens
 
