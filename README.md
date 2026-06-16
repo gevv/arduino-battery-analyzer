@@ -91,6 +91,6 @@ Original author:
 F. Štefanec
 
 Related article/project page:
-https://320volt.com/arduino-pil-analiz-cihazi
+https://320volt.com/arduino-pil-analizoru/
 
 This Arduino Nano version is based on / adapted from the original rechargeable battery analyzer project.
