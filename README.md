@@ -66,7 +66,7 @@ The settings menu includes options such as sound, ADC offset compensation, and s
 
 The schematic below shows the Arduino Nano connections, LCD interface, voltage divider, MOSFET load stage, current sensing section, buzzer, fan output, and power supply regulators.
 
-![Arduino Battery Analyzer Schematic](images/schematic.jpg)
+![Arduino Battery Analyzer Schematic](images/schematic-rev2.jpg)
 
 ## PCB Layout
 
