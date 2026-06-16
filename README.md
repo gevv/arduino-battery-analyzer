@@ -3,7 +3,7 @@
 This project is an Arduino-based battery analyzer designed for measuring battery capacity and estimating internal resistance + constant current. It can be used not only for single-cell 18650 Li-ion batteries, but also for other rechargeable batteries and battery packs up to approximately 20 V, depending on the voltage divider, load resistor, MOSFET, cooling, and calibration settings.
 
 Related article/project page:
-https://320volt.com/arduino-pil-analiz-cihazi
+https://320volt.com/arduino-pil-analizoru/
 
 ![Arduino Battery Analyzer Prototype](images/real.jpg)
 
